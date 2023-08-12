@@ -13,5 +13,6 @@ public class J0809 {
 
         System.out.println("입력한 숫자는 " + a + "입니다. ");
 
+        sc.close();
     }
 }

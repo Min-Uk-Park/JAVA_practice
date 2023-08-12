@@ -13,6 +13,8 @@ public class J0810 {
         a.printStates();
         System.out.println("\n\n");
         b.printStates();
+
+        
     }
 }
 
