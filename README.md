@@ -26,10 +26,10 @@ int n = sc.nextInt();
 
 ## Class 생성 (J230809)
 ### Inheritance (상속)
-### Instance ( )
+### Instance (J230811)
 
 ## Variables 4 가지 (J230810)
 ### 인스턴스 변수, 클래스 변수, 지역 변수, 파라미터
 
 
-## Data Types ( )
+## Data Types (J230812)
