@@ -1,6 +1,6 @@
 package j230812;
 
-import java.lang.*;
+// import java.lang.*;
 
 public class J0812_a {
 
@@ -19,22 +19,22 @@ public class J0812_a {
 
         
         // output : NaN, MAX_VALUE인데 이것은 문자열이 아니라 이름 붙은 상수이다!!!!!!
-        double a = Double.NaN;
+        // double a = Double.NaN;
         // System.out.println(a);
 
         // double b = Double.MAX_VALUE;
         // System.out.println(b);
         
-        String s = "TruE";
+        // String s = "TruE";
 
         // System.out.println(Boolean.parseBoolean(s));
         // System.out.println(s.length());
 
-        int num = 260;
+        // int num = 260;
 
-        Integer co = new Integer(num);
+        // Integer co = new Integer(num);
         
-        System.out.println(co.SIZE);
+        // System.out.println(co.SIZE);
         
     }
 }
