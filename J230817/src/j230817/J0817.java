@@ -25,7 +25,7 @@ public class J0817 {
 
         System.out.println(result);
 
-        
+        sc.close();
 
     }
 }

@@ -35,6 +35,14 @@ int n = sc.nextInt();
 ## Data Types (J230812)
 
 
+## Arrays (J230815)
+### int, char, String등등 배열
+### (ascending, descending)
+
+
+
 ## ENUM - class 생성 시 '생성자' 개념 
+
+
 
 ## Scanner 파해치기 !! 수 계산하는 코드 작성해보기
