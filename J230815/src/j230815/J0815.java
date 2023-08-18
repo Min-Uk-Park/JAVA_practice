@@ -1,7 +1,7 @@
 package j230815;
 
 import java.util.Arrays;
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class J0815 {
     public static void main(String[] args) throws Exception {
@@ -62,7 +62,7 @@ public class J0815 {
         int[] copy_score = new int[2];
 
         System.arraycopy(score, 2, copy_score, 0, 2);
-        System.out.println(copy_score); // 시작 번지가 나오는건지??
+        System.out.println(copy_score); // 시작 번지가 나온다!!
         System.out.println(Arrays.toString(copy_score)); // "[31, 25]" 배열 형태 전체가 문자열 형태로 출력되는 것이다.!!
     }
 }

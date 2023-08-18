@@ -33,3 +33,8 @@ int n = sc.nextInt();
 
 
 ## Data Types (J230812)
+
+
+## ENUM - class 생성 시 '생성자' 개념 
+
+## Scanner 파해치기 !! 수 계산하는 코드 작성해보기
