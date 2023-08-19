@@ -41,8 +41,11 @@ int n = sc.nextInt();
 
 
 
-## ENUM - class 생성 시 '생성자' 개념 
+## ENUM - class 생성 시 '생성자' 개념 (J230819)
 
 
 
-## Scanner 파해치기 !! 수 계산하는 코드 작성해보기
+## for, while, charAt, indexOf, point 등등 ... (J230820)
+
+
+## Scanner 파해치기 !! 수 계산하는 코드 작성해보기(계산기)
