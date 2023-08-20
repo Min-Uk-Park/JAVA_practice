@@ -2,7 +2,7 @@ package j230820;
 
 import java.util.Scanner;
 
-public class point {
+public class Point {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
