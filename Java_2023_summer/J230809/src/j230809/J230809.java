@@ -30,6 +30,7 @@ class Apple {
             this.color = color; // 매개변수의 변수멷과 Instance 변수명과 같을 때 Instance 변수명을 가리킬 때 this를 사용!!
         }
         else {
+            
             this.color = "red";
         }
 

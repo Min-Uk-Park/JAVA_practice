@@ -48,4 +48,11 @@ int n = sc.nextInt();
 ## for, while, charAt, indexOf, point 등등 ... (J230820)
 
 
+## Collections(Set, List, Queue, Deque)
+> 모두 인터페이스이다!! 구현한 class를 사용한다!★
+### Set (J230822)
+### List (J230823)
+### Queue & Deque (J230824)
+### Map
+
 ## Scanner 파해치기 !! 수 계산하는 코드 작성해보기(계산기)
