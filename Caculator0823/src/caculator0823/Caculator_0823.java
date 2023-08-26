@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Caculator_0823 {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
         MulDiv md = new MulDiv();
         PluseMinuse pm = new PluseMinuse();
 
