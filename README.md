@@ -61,4 +61,16 @@ int n = sc.nextInt();
 ## 접근 제한자 : public, private, non-modifier, protected (J230826)
 
 
+## OverLoading (다중정의) (J230827, J230828)
+
+
+## has - a/ is - a(상속 관계)
+### has - a (J230829)
+### is - a (J230829)
+
+
+## Thread (J230830)
+
+
+
 
